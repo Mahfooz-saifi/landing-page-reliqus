@@ -12,7 +12,7 @@ html{
       border-bottom: 2px solid white;
   }
   .about-img{
-      background-image: url(/images/download\ \(1\).jpg);
+      background-image: url(./images/download\ \(1\).jpg);
       background-size: cover;
   }
   .contact-bg{
