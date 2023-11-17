@@ -1,0 +1,44 @@
+html{
+    scroll-behavior: smooth;
+  }
+
+  
+
+  .nav-link{
+      color: white !important;
+      margin-left: 45px;
+  }
+  .active{
+      border-bottom: 2px solid white;
+  }
+  .about-img{
+      background-image: url(/images/download\ \(1\).jpg);
+      background-size: cover;
+  }
+  .contact-bg{
+    background: #bd9a9a;
+    border-radius: 100px;
+}
+  }
+.welcome-heading{
+    font-size: 35px;
+    font-weight: 400;
+}
+  .welcome-pera{
+      margin-left: 35px;
+  }
+  
+  .org-btn{
+    border: 1px solid #1097af;
+    color: #1097af;
+  }
+  .org-btn:hover{
+    background-color: #fec503;
+    color: white;
+  } 
+  .form-label{
+      color: white;
+  }
+  .form-control{
+      background-color: transparent;
+  }
